@@ -1,0 +1,7 @@
+C:\Users\USER17010\source\repos\WebApplication6\ConsoleApp1\bin\Debug\DataAccess.dll.config
+C:\Users\USER17010\source\repos\WebApplication6\ConsoleApp1\bin\Debug\DataAccess.dll
+C:\Users\USER17010\source\repos\WebApplication6\ConsoleApp1\bin\Debug\DataAccess.pdb
+C:\Users\USER17010\source\repos\WebApplication6\ConsoleApp1\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\USER17010\source\repos\WebApplication6\ConsoleApp1\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER17010\source\repos\WebApplication6\ConsoleApp1\obj\Debug\DataAccess.dll
+C:\Users\USER17010\source\repos\WebApplication6\ConsoleApp1\obj\Debug\DataAccess.pdb
